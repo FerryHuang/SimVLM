@@ -1,0 +1,9 @@
+/.vscode
+/debug.ipynb
+/result
+__pycache__/
+/wandb
+/tests
+/.cache
+/downloads
+*.pyc
